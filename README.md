@@ -1,3 +1,3 @@
 #e-ticaret
 
-![](e-ticaret.gif)
+# ![](e-ticaret.gif)
